@@ -1,1 +1,7 @@
+{
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/Chima1x/chima1x-controllermacro-updates/main/Chima1xController_1.0.0.exe",
+  "sha256": "<PUT_SHA256_HEX_OF_YOUR_EXE>",
+  "sig": "<PUT_BASE64URL_SIGNATURE_OF('version\\nsha256')>"
+}
 
