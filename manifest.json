@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "url": "https://raw.githubusercontent.com/Chima1x/chima1x-controllermacro-updates/main/Chima1xController_1.0.0.exe",
-  "sha256": "<PUT_SHA256_HEX_OF_YOUR_EXE>",
-  "sig": "<PUT_BASE64URL_SIGNATURE_OF('version\\nsha256')>"
+  "url": "https://github.com/Chima1x/chima1x-controllermacro-updates/releases/download/v1.0.0/Chima1x.ServicesUltimateControllerMacroUtility.exe",
+  "sha256": "FD54B374822B601A799AB7970FBD69831252949CC0856B1BAEAF6E03D812CF36",
+  "sig": "L6kva4K4YS6WWtav2I7dq_Vk0EH2UFfau7VOHIR0spBWuaTkIwcBnrJQ6lKYho4XQunjkmN2i7fgk6fnTdgaX3PpPuk_4n8pwg_dO8YjUK0ta2yaXMBWe53jn8qsVCkA7P6ezGCzKbhRCLanOl_MvXddUgxft030qotX4rhX1kM49guqyAaHNuvgHu0BGFl2eIcKPMd3EZBIUvd8UY-cPGkk8YhkWgCN-xfEdvvpctrUT5Wio6Pk6yS32XqEMd-bmTu5yYTnusc_X2xSye-LggX9VOc2fLSGdRLFGXm69eovWc7_R5GK7KxTdMqEOPHul8FkkNvk3LbGI5MxfUy04A"
 }
 
